@@ -27,7 +27,7 @@ dependencies {
 BlueLine Labs kindly provides the appropriate ProGuard rules on the [LoganSquare site](https://github.com/bluelinelabs/LoganSquare#proguard)
 
 # Thanks
-Thanks to Square for the awesomeness that is Retrofit, and to [Artem](https://github.com/artem-zinnatullin) for the idea of making this a library
+Thanks to BlueLine Labs for the awesomeness that is LoganSquare, and to [Artem](https://github.com/artem-zinnatullin) for the idea of making this a library
 
 
 License
